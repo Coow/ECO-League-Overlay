@@ -19,8 +19,8 @@
   font: bold 24px Helvetica;
   font-size: 40px;
   position: absolute;
-  top: -23px;
-  left: 439px;
+  top: -28px;
+  left: 485px;
   width: 130px;
   text-align: center;
 }
@@ -31,8 +31,8 @@
   font-size: 56px;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
   position: absolute;
-  top: -23px;
-  left: 353px;
+  top: -28px;
+  left: 300px;
   width: 32px;
   animation: fadein 0.5s;
 }
@@ -42,8 +42,8 @@
   font: bold 24px Helvetica;
   font-size: 40px;
   position: absolute;
-  top: -23px;
-  left: 1364px;
+  top: -28px;
+  left: 1311px;
   width: 130px;
   text-align: center;
 }

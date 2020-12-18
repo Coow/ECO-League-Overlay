@@ -1,10 +1,7 @@
 import React from 'react';
-import Overlay from './ECO_Overlay.png';
+import Overlay from './ECO_Overlay_Adjusted.png';
 import './App.css';
-//import Baron from './Baron.js';
 import GameData from './GameData.json';
-
-//var baron_active = false;
 
 function App() {
 
